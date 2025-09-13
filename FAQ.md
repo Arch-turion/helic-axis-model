@@ -7,7 +7,7 @@ A mathematical and experimental framework that treats consciousness as a measura
 
 Where is the research?
 
-Full compendium: https://zenodo.org/records/17096632/https://zenodo.org/records/17103378.
+Full compendium: https://zenodo.org/records/17096632 / https://zenodo.org/records/17103378.
 
 What makes this different?
 
