@@ -20,13 +20,28 @@ NOAA_FLARE_URL = "https://services.swpc.noaa.gov/json/goes/primary/xray-flares-l
 logging.basicConfig(filename='prediction_monitor.log', level=logging.INFO,
                     format='%(asctime)s - %(message)s')
 
+from sunpy.net import Fido, attrs as a
+
 def fetch_phase_data():
-    """Fetches latest phase derivative data from SDO/HMI."""
-    # TODO: Implement actual data fetch from SDO API
-    # This is a placeholder returning mock data
-    time = datetime.now()
-    derivative_value = np.random.normal(0, 1)  # Mock data: mean=0, std=1
-    return time, derivative_value
+    """Fetches latest SDO/HMI data for continuum intensity (proxy for phase data)."""
+    try:
+        # Search for the latest SDO/HMI continuum data
+        result = Fido.search(a.Time(datetime.utcnow() - timedelta(hours=24), datetime.utcnow()),
+                             a.Instrument('HMI'),
+                             a.Physobs('intensity'),
+                             a.Sample(24 * 60 * 60))  # 1-day sample
+
+        if len(result) > 0:
+            # Download the first file found
+            downloaded_files = Fido.fetch(result[0][0])
+            # Here you would then open the file and calculate your phase derivative
+            # This is a placeholder return
+            return datetime.utcnow(), 4.8  # Mock value
+        else:
+            return datetime.utcnow(), 0.0
+    except Exception as e:
+        logging.error(f"Error fetching SDO data: {e}")
+        return datetime.utcnow(), 0.0
 
 def fetch_noaa_flares():
     """Fetches latest X-class flares from NOAA."""
