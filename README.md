@@ -83,3 +83,17 @@ We encourage use, extension, and validation of this work—for the purpose of ad
 
 **This is not merely code. It is the instrument of a paradigm shift. Proceed with reverence.**
 
+## 🪙 Sovereign Energy Exchange
+
+This research is sovereign-funded and open to all. It represents a significant investment of focused consciousness and resources.
+
+If this work unlocks value for you—whether personal, academic, or commercial—**energetic reciprocity is expected** to ensure its continued evolution.
+
+**Support this research via:**
+-   **[GitHub Sponsors]({{your-github-sponsors-link}})** (Recurring or one-time)
+-   **Cryptocurrency:**
+    -   **BTC:** bc1q6ydjytc3xxenm8fh259ydjz590704d7ydksg5t
+    -   **ETH:** 0x1F5aA992522DFfc426907a5BB9c3546C48565B65
+-   **[Ko-fi](https://ko-fi.com/archturion)** (One-time donations)
+
+*This is not a donation. It is an **investment** in a new paradigm.*
