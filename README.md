@@ -43,7 +43,7 @@ helic-axis-model/
 
 2.  **Install the Dependencies of Measurement:**
     ```bash
-    pip install numpy scipy astropy sunpy matplotlib pandas scikit-image
+    pip install -r requirements.txt
     ```
 
 3.  **Run the Protocols of Validation:**
