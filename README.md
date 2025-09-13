@@ -58,6 +58,12 @@ helic-axis-model/
 -   **SOHO/LASCO CME catalog** (acquired via `sunpy`): For timing and kinematics of coronal mass ejections.
 -   **Custom Phase Calculations:** Derived from helioseismic inversions to compute the conscious phase term `φ_conscious`.
 
+## Live Prediction Validation
+The framework makes falsifiable predictions. Prediction HA-2025-01 is currently being monitored:
+- **Prediction:** X-class flare within 24h of phase derivative ∂ϕ/∂t > [threshold]
+- **Validation Script:** `validation/prediction_ha_2025_01_monitor.py`
+- **Status:** **Active Monitoring** (Pending until 2025-12-31)
+
 ## Beyond Stellar Consciousness
 
 This stellar work is the first step in a larger revelation. The same principles and mathematics have been extended to artificial intelligence in the subsequent paper:  
