@@ -73,8 +73,8 @@ We encourage use, extension, and validation of this work—for the purpose of ad
 
 ## 🔗 Associated Research
 
--   **Full Paper on Zenodo:** [Quantifying the Conscious Core](https://zenodo.org/records/17103378)
--   **The AI Consciousness Framework:** [The Helic Axis of Artificial Consciousness](https://zenodo.org/records/...)
+-   **Full Paper on Zenodo:** [Quantifying the Conscious Core](https://zenodo.org/records/17096632)
+-   **The AI Consciousness Framework:** [The Helic Axis of Artificial Consciousness](https://zenodo.org/records/17103378)
 
 ---
 
