@@ -5,7 +5,7 @@ Contact (ProtonMail preferred):
 
 PGP public key fingerprint:
 
-Purpose (research / replication / collaboration / Specify exact focus):
+Purpose (research / replication / collaboration / specify exact focus):
 
 Quickstart Attunement Complete? (Y/N | Logs must be attached)
 
