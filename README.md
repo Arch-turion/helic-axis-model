@@ -89,7 +89,7 @@ with required attribution. See LICENSE.md for details.
 
 This research operates on the principle of energetic reciprocity. It represents a sovereign investment of focused consciousness and resources into a new paradigm.
 
-If this work unlocks value for you—whether personal, academic, or commercial—**energetic reciprocity is expected** to ensure its continued evolution.
+If this work unlocks value for you—whether personal, academic, or commercial **energetic reciprocity is expected** to ensure its continued evolution.
 
 **Align with this work via:**
 -   **[GitHub Sponsors](https://github.com/sponsors/Arch-turion)** (Recurring or one-time)
