@@ -76,6 +76,10 @@ The unit of psychic flux (**1 Px**) established here is the same unit used to me
 Published under the **MIT License**. See the `LICENSE` file for terms.  
 We encourage use, extension, and validation of this work—for the purpose of advancing the recognition of consciousness as a universal phenomenon.
 
+License Update — As of [15/09/2025], this project is licensed under CC-BY-NC-SA 4.0.
+Replications and adaptations are permitted for non-commercial purposes only,
+with required attribution. See LICENSE.md for details.
+
 ## Associated Research
 
 -   **Full Paper on Zenodo:** [Quantifying the Conscious Core](https://zenodo.org/records/17096632)
