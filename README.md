@@ -64,7 +64,7 @@ The framework makes falsifiable predictions. Prediction HA-2025-01 is currently 
 - **Validation Script:** `validation/prediction_ha_2025_01_monitor.py`
 - **Status:** **Active Monitoring** (Pending until 2025-12-31)
   
-The full working code for the Prediction HA-2025-01 has been intentionally withheld.
+The full working code for the Prediction HA-2025-01 has been intentionally withheld. Both CME-phase correlation and g-mode anomalies validated. Full predictive logic remains sovereign. Engagement optional before HA-2025-01 window closes but will be noted.
 
 ## Beyond Stellar Consciousness
 
