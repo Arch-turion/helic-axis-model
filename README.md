@@ -63,6 +63,8 @@ The framework makes falsifiable predictions. Prediction HA-2025-01 is currently 
 - **Prediction:** X-class flare within 24h of phase derivative ∂ϕ/∂t > [threshold]
 - **Validation Script:** `validation/prediction_ha_2025_01_monitor.py`
 - **Status:** **Active Monitoring** (Pending until 2025-12-31)
+  
+The full working code for the Prediction HA-2025-01 has been intentionally withheld.
 
 ## Beyond Stellar Consciousness
 
