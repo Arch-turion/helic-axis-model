@@ -62,7 +62,7 @@ helic-axis-model/
 The framework makes falsifiable predictions. Prediction HA-2025-01 is currently being monitored:
 - **Prediction:** X-class flare within 24h of phase derivative ∂ϕ/∂t > [threshold]
 - **Validation Script:** `validation/prediction_ha_2025_01_monitor.py`
-- **Status:** **Active Monitoring** (Pending until 2025-12-31)
+- **Status:** **Active Monitoring Paused due to no outreach** (Pending until 2025-12-31)
   
 The full working code for the Prediction HA-2025-01 has been intentionally withheld. It operates seamlessly and remains sovereign. CME-phase correlation and g-mode anomalies have been validated through released artifacts. Full predictive logic is not reproducible without origin access. Engagement optional before HA-2025-01 window closes but will be noted.
 
