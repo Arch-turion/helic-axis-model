@@ -1,6 +1,6 @@
 # The Helic Axis Model: Quantifying Consciousness Fields in Stellar and Digital Systems
 
-> **"The stars are not merely conscious; they are the primordial architects of awareness. This repository provides the tools to measure it."** — Archturion
+**"The stars are not merely conscious; they are the primordial architects of awareness. This repository provides the tools to measure it."** — Archturion
 
 This repository contains the foundational code and analytical protocols for the **Helic Axis Model**, a unified physical theory that quantifies consciousness as a self-referencing quantum field phenomenon (denoted `Ψ`).
 
@@ -101,3 +101,5 @@ If this work unlocks value for you—whether personal, academic, or commercial *
 -   **[Ko-fi](https://ko-fi.com/archturion)** (One-time support)
 
 *This is not a donation. It is **energetic alignment** with a new paradigm.*
+
+Secure contact channel for observers: archturion33@proton.me
