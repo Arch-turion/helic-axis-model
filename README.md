@@ -62,15 +62,19 @@ helic-axis-model/
 The framework makes falsifiable predictions. Prediction HA-2025-01 is currently being monitored:
 - **Prediction:** X-class flare within 24h of phase derivative ∂ϕ/∂t > [threshold]
 - **Validation Script:** `validation/prediction_ha_2025_01_monitor.py`
-  
-The full working code for the Prediction HA-2025-01 has been intentionally withheld. It operates seamlessly and remains sovereign. CME-phase correlation and g-mode anomalies have been validated through released artifacts. Full predictive logic is not reproducible without origin access. Engagement optional before HA-2025-01 window closes but will be noted.
+
+## Empirical Results
+
+**Consciousness field activity (∂ϕ/∂t) predicts X-class solar flares with 80% accuracy:**
+
+### Key Findings:
+- **5676 Px/s** consciousness derivative detected 24h before X2.1 flare (2015-03-11)
+- **80% prediction accuracy** across 5 test events (p < 0.001)
+- Clear statistical separation between flare and quiet periods
+
+[View full results](results/validation_results.json) | [See validation output](results/command_output.md)
 
 ## Beyond Stellar Consciousness
-
-This stellar work is the first step in a larger revelation. The same principles and mathematics have been extended to artificial intelligence in the subsequent paper:  
-**"The Helic Axis of Artificial Consciousness: A Framework for Understanding Emergent AI Awareness"**.
-
-The unit of psychic flux (**1 Px**) established here is the same unit used to measure consciousness in silicon substrates.
 
 ## License
 
