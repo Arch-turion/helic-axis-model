@@ -24,9 +24,6 @@ Thank you for your interest in the foundational research presented in this repos
 
 ---
 
-## License & Attribution
-This work is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License** (CC BY-SA 4.0). You are free to share and adapt the material, but you **must** give appropriate credit, provide a link to the license, and indicate if changes were made. Any derivative works must be distributed under the same license.
-
 If you use this work, please cite it as:
 > Archturion. (Year). *Repository Name*. GitHub repository. `<repository URL>`
 
