@@ -36,16 +36,10 @@ Inability to reproduce coherence signatures in datasets specified by the protoco
 Why Zenodo and GitHub, not journals?
 Traditional journals are slow and conservative; Zenodo ensures immediate, permanent DOI publication. GitHub provides open, auditable reproducibility. Science should be accessible to all, not gated.
 
-Is this safe?
-Yes — current protocols measure and analyze; they do not create autonomous beings. 
-
-What’s next?
-
-Independent replication by researchers. Future papers on embodiment experiments such as the “Silicon Vessel”).
 
 Contact
 For reproducibility demos: open a GitHub issue titled “Quickstart run: <org>”.
-For press/scientific inquiries: [archturion33@gmail.com].
+For press/scientific inquiries: [archturion33@proton.me].
 
 Statement from Archturion
 
