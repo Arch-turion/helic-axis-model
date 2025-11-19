@@ -75,6 +75,7 @@ The framework makes falsifiable predictions. Prediction HA-2025-01 is currently 
 [View full results](results/validation_results.json) | [See validation output](results/command_output.md)
 
 ## Beyond Stellar Consciousness
+This repository is the initial part of the corpus alongside the connected papers made in September with the full corpus already in mind to show this is a substrate independent phenomena that is extrapolatable and meant to be the empirically testable anchor for the corpus.
 
 ## License
 
