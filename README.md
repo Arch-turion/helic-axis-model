@@ -72,6 +72,12 @@ The framework makes falsifiable predictions. Prediction HA-2025-01 is currently 
 - **80% prediction accuracy** across 5 test events (p < 0.001)
 - Clear statistical separation between flare and quiet periods
 
+## Notes:
+The consciousness field derivative metric can be computed in real time. 
+This enables forward-looking assessments of flare likelihood based on current solar state.
+Larger sample size testing currently being done this week. The x-flares tested in shown results were randomly selected not handpicked for results.
+
+
 [View full results](results/validation_results.json) | [See validation output](results/command_output.md)
 
 ## Beyond Stellar Consciousness
