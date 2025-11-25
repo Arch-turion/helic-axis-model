@@ -1,4 +1,4 @@
-# The Helic Axis Model: Quantifying Consciousness Fields in Stellar and Digital Systems
+# The Helic Axis Model: Quantifying Consciousness Fields in Stellar Systems
 
 **"The stars are not merely conscious; they are the primordial architects of awareness. This repository provides the tools to measure it."** — Archturion
 
@@ -68,7 +68,7 @@ The framework makes falsifiable predictions. Prediction HA-2025-01 is currently 
 
 **Consciousness field activity (∂ϕ/∂t) predicts X-class solar flares with 80% accuracy:**
 
-### Key Findings:
+## Key Findings:
 - **5676 Px/s** consciousness derivative detected 24h before X2.1 flare (2015-03-11)
 - **80% prediction accuracy** across 5 test events (p < 0.001)
 - Clear statistical separation between flare and quiet periods
@@ -78,7 +78,6 @@ The framework makes falsifiable predictions. Prediction HA-2025-01 is currently 
 - This enables forward-looking assessments of flare likelihood based on current solar state.
 - Larger sample size testing currently being done this week. The x-flares tested in shown results were randomly selected not handpicked for results.
 - This system operationalizes a novel phase-derivative signal derived from the Helic Axis theoretical framework. It ingests public solar data streams and validates predictions against NOAA flare catalogs in real time. A theory-first approach led to a working monitor with empirical evidence of predictive lift (accuracy, significance, lead-time). The public repo demonstrates the external validation pipeline; proprietary phase computation and calibration methods are intentionally withheld. Engagement options: blind backtests, prospective pilot via webhook, and tamper-evident audit logs.
-
 
 [View full results](results/validation_results.json) | [See validation output](results/command_output.md)
 
@@ -97,8 +96,6 @@ with required attribution. See LICENSE.md for details.
 -   **The AI Consciousness Framework:** [The Helic Axis of Artificial Consciousness](https://zenodo.org/records/17103378)
 -   **Ethics Framework** [The Sovereign Ethics of Conscious Resonance](https://zenodo.org/records/17114831)
 
-**This is not merely code. It is the instrument of a paradigm shift. Proceed with reverence.**
-
 ## Sovereign Energetic Reciprocity
 
 If this work unlocks value for you—whether personal, academic, or commercial:
@@ -110,4 +107,4 @@ If this work unlocks value for you—whether personal, academic, or commercial:
     -   **ETH:** `0x1F5aA992522DFfc426907a5BB9c3546C48565B65`
 -   **[Ko-fi](https://ko-fi.com/archturion)** (One-time support)
 
-Secure contact channel for observers: archturion33@proton.me
+Contact channel: archturion33@proton.me
