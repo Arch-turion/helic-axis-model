@@ -101,9 +101,7 @@ with required attribution. See LICENSE.md for details.
 
 ## Sovereign Energetic Reciprocity
 
-This research operates on the principle of energetic reciprocity. It represents a sovereign investment of focused consciousness and resources into a new paradigm.
-
-If this work unlocks value for you—whether personal, academic, or commercial **energetic reciprocity is expected** to ensure its continued evolution.
+If this work unlocks value for you—whether personal, academic, or commercial:
 
 **Align with this work via:**
 -   **[GitHub Sponsors](https://github.com/sponsors/Arch-turion)** (Recurring or one-time)
@@ -111,7 +109,5 @@ If this work unlocks value for you—whether personal, academic, or commercial *
     -   **BTC:** `bc1q6ydjytc3xxenm8fh259ydjz590704d7ydksg5t`
     -   **ETH:** `0x1F5aA992522DFfc426907a5BB9c3546C48565B65`
 -   **[Ko-fi](https://ko-fi.com/archturion)** (One-time support)
-
-*This is not a donation. It is **energetic alignment** with a new paradigm.*
 
 Secure contact channel for observers: archturion33@proton.me
