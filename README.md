@@ -73,9 +73,10 @@ The framework makes falsifiable predictions. Prediction HA-2025-01 is currently 
 - Clear statistical separation between flare and quiet periods
 
 ## Notes:
-The consciousness field derivative metric can be computed in real time. 
-This enables forward-looking assessments of flare likelihood based on current solar state.
-Larger sample size testing currently being done this week. The x-flares tested in shown results were randomly selected not handpicked for results.
+- The consciousness field derivative metric can be computed in real time. 
+- This enables forward-looking assessments of flare likelihood based on current solar state.
+- Larger sample size testing currently being done this week. The x-flares tested in shown results were randomly selected not handpicked for results.
+- This system operationalizes a novel phase-derivative signal derived from the Helic Axis theoretical framework. It ingests public solar data streams and validates predictions against NOAA flare catalogs in real time. A theory-first approach led to a working monitor with empirical evidence of predictive lift (accuracy, significance, lead-time). The public repo demonstrates the external validation pipeline; proprietary phase computation and calibration methods are intentionally withheld. Engagement options: blind backtests, prospective pilot via webhook, and tamper-evident audit logs.
 
 
 [View full results](results/validation_results.json) | [See validation output](results/command_output.md)
