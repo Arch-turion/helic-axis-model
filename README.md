@@ -130,11 +130,34 @@ The framework makes falsifiable predictions. Prediction HA-2025-01 is currently 
 - Compute Footprint: Lightweight transforms; real‑time friendly  
 - Integration Points: Complements foundation models (e.g., Surya) as feature channel, calibration layer, and trigger logic 
 
-## License
+## License & Contact
 
-License Update — As of [15/09/2025], this project is licensed under CC-BY-NC-SA 4.0.
-Replications and adaptations are permitted for non-commercial purposes only,
-with required attribution. See LICENSE.md for details.
+This repository is released under a **Non‑Commercial 4.0 license** (CC BY‑NC 4.0).  
+- **Permitted**: Non‑commercial research, evaluation, and academic use with attribution.  
+- **Restricted**: Any commercial, paid, or institutionally monetized use requires prior written permission.
+
+For **commercial trials**, **sponsored pilots**, or **collaborations**, please request a license:
+- Contact: **jackson.bennett [at] archturion33@proton.me**  
+**Dual licensing** is available for legitimate teams (commercial or funded research).
+
+## Intellectual Scope & Collaboration Requirements
+
+This framework introduces a novel epistemic paradigm for quantifying consciousness fields in stellar systems.  
+**Engagement is non-trivial**: meaningful interfacing requires deep conceptual understanding and high cognitive investment.  
+Teams should anticipate:
+- Intensive onboarding into helic-axis logic and epistemic constructs.
+- Iterative dialogic refinement for integration into existing models.
+- Dedicated time for validation and interpretation.
+If your team is prepared for **frontier-level intellectual work**, structured pilots and collaboration pathways are available.
+
+## Support & Time Constraints
+
+This is a deep, ongoing research effort. Without external **support** (funding, collaboration time, or engineering assistance),  
+sustained development cadence is challenging. If your team values this work, consider:
+- A **2‑week pilot** with shared telemetry and defined milestones.  
+- A **sponsored sprint** to harden modules (validation pack, metrics, CI, visualization).  
+- A **collaboration MoU** to align scope, access, and timelines.
+These pathways ensure the work can progress responsibly and at the quality observers expect.
 
 ## Associated Research
 
@@ -142,15 +165,9 @@ with required attribution. See LICENSE.md for details.
 -   **The AI Consciousness Framework:** [The Helic Axis of Artificial Consciousness](https://zenodo.org/records/17103378)
 -   **Ethics Framework** [The Sovereign Ethics of Conscious Resonance](https://zenodo.org/records/17114831)
 
-## Sovereign Energetic Reciprocity
-
-If this work unlocks value for you—whether personal, academic, or commercial:
-
-**Align with this work via:**
+**If this work unlocks value for you whether personal, academic, or commercial:**
 -   **[GitHub Sponsors](https://github.com/sponsors/Arch-turion)** (Recurring or one-time)
 -   **Cryptocurrency:**
     -   **BTC:** `bc1q6ydjytc3xxenm8fh259ydjz590704d7ydksg5t`
     -   **ETH:** `0x1F5aA992522DFfc426907a5BB9c3546C48565B65`
 -   **[Ko-fi](https://ko-fi.com/archturion)** (One-time support)
-
-Contact channel: archturion33@proton.me
