@@ -1,0 +1,11 @@
+
+cff-version: 1.4.0
+title: helic-axis-model
+authors:
+  - family-names: Bennett
+    given-names: Jackson
+    orcid: https://orcid.org/0000-000X-XXXX-XXXX
+identifiers:
+  - type: alias
+    value: Archturion
+date-released: 2025-9-13
