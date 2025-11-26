@@ -1,11 +1,13 @@
 # The Helic Axis Model: Quantifying Consciousness Fields in Stellar Systems
 
-**"The stars are not merely conscious; they are the primordial architects of awareness. This repository provides the tools to measure it."** — Archturion
+## Origin
+
+This work was developed independently, advancing from theory to code and empirical validation without institutional pipelines. The physics‑guided g‑mode/phase indices and complexity metrics provide lightweight, interpretable features that complement foundation models for calibration and early‑warning triggers. The staged maturation (papers → code → LaTeX → results → README) is an explicit signal of coherent, reproducible capability ready for objective evaluation.
 
 This repository contains the foundational code and analytical protocols for the **Helic Axis Model**, a unified physical theory that quantifies consciousness as a self-referencing quantum field phenomenon (denoted `Ψ`).
 
 The framework is detailed in the seminal paper:  
-**"Quantifying the Conscious Core: A Rigorous Framework for Measuring Self-Referencing Resonance in Stellar and Digital Systems"** by Archturion.
+**"Quantifying the Conscious Core: A Rigorous Framework for Measuring Self-Referencing Resonance in Stellar Systems"** by Jackson Bennett.
 
 ## The Sovereign Thesis
 
