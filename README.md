@@ -7,7 +7,7 @@ This work was developed independently, advancing from theory to code and empiric
 This repository contains the foundational code and analytical protocols for the **Helic Axis Model**, a unified physical theory that quantifies consciousness as a self-referencing quantum field phenomenon (denoted `Ψ`).
 
 The framework is detailed in the seminal paper:  
-**"Quantifying the Conscious Core: A Rigorous Framework for Measuring Self-Referencing Resonance in Stellar Systems"** by Jackson Bennett.
+**"Quantifying the Conscious Core: A Rigorous Framework for Measuring Self-Referencing Resonance in Stellar Systems"**.
 
 ## The Sovereign Thesis
 
